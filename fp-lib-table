@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Crystal")(type "KiCad")(uri "${KIPRJMOD}/components/crystal")(options "")(descr ""))
+  (lib (name "RTC Oscillator")(type "KiCad")(uri "${KIPRJMOD}/components/RTC oscillator/footprints.pretty")(options "")(descr ""))
+  (lib (name "micro SD")(type "KiCad")(uri "${KIPRJMOD}/components/micro SD")(options "")(descr ""))
+  (lib (name "Battery Holder")(type "KiCad")(uri "${KIPRJMOD}/components/Battery Holder")(options "")(descr ""))
+  (lib (name "Slider Switch")(type "KiCad")(uri "${KIPRJMOD}/components/Slider Switch/footprints.pretty")(options "")(descr ""))
+  (lib (name "usb c")(type "KiCad")(uri "${KIPRJMOD}/components/usb c")(options "")(descr ""))
+  (lib (name "button")(type "KiCad")(uri "${KIPRJMOD}/components/button/footprints.pretty")(options "")(descr ""))
+)

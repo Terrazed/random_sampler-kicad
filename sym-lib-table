@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Crystal")(type "KiCad")(uri "${KIPRJMOD}/components/crystal/ECS-400-10-37B2-CKM-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "RTC Oscillator")(type "KiCad")(uri "${KIPRJMOD}/components/RTC oscillator/2024-10-23_12-51-32.kicad_sym")(options "")(descr ""))
+  (lib (name "Micro SD")(type "KiCad")(uri "${KIPRJMOD}/components/micro SD/MSD-4-A.kicad_sym")(options "")(descr ""))
+  (lib (name "Battery Holder")(type "KiCad")(uri "${KIPRJMOD}/components/Battery Holder/BC3AAPC.kicad_sym")(options "")(descr ""))
+  (lib (name "Slider Switch")(type "KiCad")(uri "${KIPRJMOD}/components/Slider Switch/2024-10-24_13-26-38.kicad_sym")(options "")(descr ""))
+  (lib (name "usb c")(type "KiCad")(uri "${KIPRJMOD}/components/usb c/USB4105-GF-A.kicad_sym")(options "")(descr ""))
+  (lib (name "button")(type "KiCad")(uri "${KIPRJMOD}/components/button/2024-11-05_13-27-11.kicad_sym")(options "")(descr ""))
+)
